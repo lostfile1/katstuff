@@ -1,0 +1,10 @@
+{
+    "stringId": "modid:nyan",
+    "blockStates":
+    {
+        "myblock":
+        {
+            "modelName": "model_nyan"
+        }
+    }
+}
