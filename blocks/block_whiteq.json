@@ -1,0 +1,10 @@
+{
+    "stringId": "modid:whiteq",
+    "blockStates":
+    {
+        "myblock":
+        {
+            "modelName": "model_whiteq"
+        }
+    }
+}
