@@ -1,2 +1,2 @@
 # katstuff
-a data pack mod for cosmic reach it adds a few cosmedic blocks its not working currently
+a data pack mod for cosmic reach it adds a few cosmedic blocks
