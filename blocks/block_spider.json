@@ -1,1 +1,10 @@
-
+{
+    "stringId": "katstuff:spider_block",
+    "blockStates":
+    {
+        "spider":
+        {
+            "modelName": "model_nyan"
+        }
+    }
+}
